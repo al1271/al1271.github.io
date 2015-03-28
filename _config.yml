@@ -1,0 +1,12 @@
+# Site settings
+title:  Alex Garza's awsome title
+email: alexzangarza@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Wow thats neat there are words that make a discription of this blog here.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: surexshot
+github_username:  al1271
+
+# Build settings
+markdown: kramdown
